@@ -1,0 +1,2 @@
+# RandomWalks
+Only simple script
